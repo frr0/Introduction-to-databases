@@ -1,2 +1,0 @@
-target: 
-	./note.sh note
